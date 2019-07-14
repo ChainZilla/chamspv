@@ -1,5 +1,5 @@
 # chameleon spv
-Projects that are interested in adding new servers to their respective coins should do so in the following format
+Projects that are interested in adding new electrum servers for their respective blockchains should do so in the following format
 
 ```
 "CHIPS":[  

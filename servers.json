@@ -215,13 +215,13 @@
          "ip":"electrum1.utrum.io",
          "port":10088,
          "connection":"tcp",
-         "version":1.2
+         "version":1.4
       },
       {  
          "ip":"electrum2.utrum.io",
          "port":10088,
          "connection":"tcp",
-         "version":1.2
+         "version":1.4
       }
    ],
    "TUSD":[  

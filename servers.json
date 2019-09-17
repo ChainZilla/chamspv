@@ -397,5 +397,20 @@
          "connection":"ssl",
          "version":1.4
       }
-   ]
+   ],
+   
+     "THC": [
+        {
+            "ip": "157.230.45.184",
+            "port": 10022,
+            "connection": "tcp",
+            "version": 1.4
+        },
+        {
+            "ip": "165.22.52.123",
+            "port": 10022,
+            "connection": "tcp",
+            "version": 1.4
+        }
+    ]
 }

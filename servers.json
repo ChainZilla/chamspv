@@ -260,8 +260,20 @@
    ],
    "AXE":[  
       {  
-         "ip":"149.28.61.183",
-         "port":50001,
+         "ip":"electrum1.cipig.net",
+         "port":10057,
+         "connection":"tcp",
+         "version":1.4
+      },
+      {  
+         "ip":"electrum2.cipig.net",
+         "port":10057,
+         "connection":"tcp",
+         "version":1.4
+      },
+      {  
+         "ip":"electrum3.cipig.net",
+         "port":10057,
          "connection":"tcp",
          "version":1.4
       }

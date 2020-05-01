@@ -246,13 +246,13 @@
    ],
    "KOIN":[  
       {  
-         "ip":"18.140.207.130",
+         "ip":"sumba.koinon.cloud",
          "port":50001,
          "connection":"tcp",
          "version":1.4
       },
       {  
-         "ip":"18.140.174.120",
+         "ip":"dalian.koinon.cloud",
          "port":50001,
          "connection":"tcp",
          "version":1.4
